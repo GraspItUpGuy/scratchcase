@@ -1,0 +1,2 @@
+# scratchcase
+codes in class
